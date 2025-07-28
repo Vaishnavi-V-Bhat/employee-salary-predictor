@@ -66,7 +66,7 @@ st.markdown(
 
 st.title("💼 Employee Salary Prediction App")
 st.markdown(
-    "<span style='font-size:1.2em;color:#15cdfc;'>Developed by Anshul Gupta</span>",
+    "<span style='font-size:1.2em;color:#15cdfc;'>Developed by Vaishnavi</span>",
     unsafe_allow_html=True
 )
 
