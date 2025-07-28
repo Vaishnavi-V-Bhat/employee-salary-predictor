@@ -52,17 +52,7 @@ def set_bg():
     """, unsafe_allow_html=True)
 set_bg()
 
-# ----- GITHUB SYMBOL (NO NAME, TOP-RIGHT) -----
-github_url = "https://github.com/Anshul412/Employee_Salary_prediction"
-github_logo_url = "https://avatars.githubusercontent.com/u/203493251?v=4"
-st.markdown(
-    f"""<div class="github-link-fixed">
-            <a href="{github_url}" target="_blank" title="View on GitHub">
-                <img src="{github_logo_url}" class="github-logo-x"/>
-            </a>
-        </div>""",
-    unsafe_allow_html=True
-)
+
 
 st.title("💼 Employee Salary Prediction App")
 st.markdown(
