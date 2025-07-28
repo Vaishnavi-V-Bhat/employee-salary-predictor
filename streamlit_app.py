@@ -54,7 +54,7 @@ set_bg()
 
 # ----- GITHUB SYMBOL (NO NAME, TOP-RIGHT) -----
 github_url = "https://github.com/Anshul412/Employee_Salary_prediction"
-github_logo_url = "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+github_logo_url = "https://avatars.githubusercontent.com/u/203493251?v=4"
 st.markdown(
     f"""<div class="github-link-fixed">
             <a href="{github_url}" target="_blank" title="View on GitHub">
